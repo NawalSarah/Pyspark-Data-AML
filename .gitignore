@@ -1,0 +1,8 @@
+output/
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+metastore_db/
+spark-warehouse/
+derby.log
